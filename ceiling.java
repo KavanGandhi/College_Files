@@ -13,8 +13,7 @@ public class ceiling {
         int start=0;
         int end=arr.length-1;
         int mid;
-
-        
+                
         if(tar>arr[arr.length-1])
         {
             return -1;
