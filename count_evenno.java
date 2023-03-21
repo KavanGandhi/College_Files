@@ -25,8 +25,6 @@ public class count_evenno {
                 c++;
                 
             }
-
-
             else{
                 System.out.println(i+" index is odd");
             }
