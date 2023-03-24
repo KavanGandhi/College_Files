@@ -26,8 +26,9 @@ public class Cycle_questions {
                     slow = slow.next; 
                     size++;
                 }while(fast != slow);
+                return size;
+
             }
-            return size;
         }
         return 0;
     }
