@@ -95,7 +95,7 @@ public class Doubly_Linked_List {
         list.insertFirst(3);
         list.insertFirst(12);
         list.insertFirst(23);
-        list.insertFirst(11);
+        list.insertFirst(10);
         list.insertLast(99);
         list.insert(23, 7);
 
