@@ -1,5 +1,7 @@
- // public Node(int value,Node next)
-        // {
-        //     this.value=value;
-        //     this.next=next;
+ 
+        // while(last!=null){
+            
+        //     System.out.print(last.value+" -> ");
+        //     last = last.prev;
         // }
+        // System.out.print("START");

@@ -17,6 +17,7 @@ class DLL{
         node.next = null;
         if(head==null){
             node.prev=null;
+            head=node;
             return;
         }
         while(last.next!=null){
@@ -97,6 +98,7 @@ public class Doubly_Linked_List {
         list.insertFirst(23);
         list.insertFirst(10);
         list.insertLast(99);
+        list.display();
         list.insert(23, 7);
 
         list.display();
