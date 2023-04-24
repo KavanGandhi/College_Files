@@ -7,7 +7,7 @@ class queues{
         capacity=size;
         a=new int[capacity];
     }
-
+    
     void arrayqueue(int item){
         if(rear<capacity-1){
             if(front==-1){
